@@ -61,6 +61,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Script\Camera.cs" />
+    <Compile Include="Assets\Script\cherry.cs" />
+    <Compile Include="Assets\Script\cherryscore.cs" />
     <Compile Include="Assets\Script\Pendulum.cs" />
     <Compile Include="Assets\Script\PlayerMovement.cs" />
     <Compile Include="Assets\Script\SceneHandler.cs" />
